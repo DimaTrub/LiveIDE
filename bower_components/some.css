@@ -1,0 +1,6 @@
+.code__textarea {
+    flex: 70% 0 0;
+    padding: 24px 24px 0 24px;
+    overflow-y: scroll;
+    background-color: #6b47b8;
+}

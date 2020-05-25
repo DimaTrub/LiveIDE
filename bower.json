@@ -1,0 +1,18 @@
+{
+  "name": "chat-app",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/andrewjmead/node-v3-chat-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "codemirror": "^5.53.2"
+  }
+}
